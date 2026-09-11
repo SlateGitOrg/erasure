@@ -1,0 +1,12 @@
+{
+  "name": "erasure",
+  "version": "0.1.0",
+  "description": "GDPR erasure driven by column-level lineage, verified by an adversary that tries to re-identify the person you just deleted.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=22.6" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.ts"
+  }
+}
