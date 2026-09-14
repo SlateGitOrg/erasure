@@ -2,6 +2,22 @@
 
 > GDPR erasure driven by column-level lineage, verified by an adversary that tries to re-identify the person you just deleted.
 
+## Live deployment
+
+[![CI and deployment](https://github.com/SlateGitOrg/erasure/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SlateGitOrg/erasure/actions/workflows/ci.yml)
+
+[Open the interactive Erasure demo](https://slategitorg.github.io/erasure/)
+
+The deployed interface uses a deterministic offline scenario to make the repository's tested decision rule visible without external services or private data.
+
+### Desktop
+
+![Erasure desktop deployment](docs/assets/deployed-desktop.png)
+
+### Mobile
+
+<img src="docs/assets/deployed-mobile.png" alt="Erasure mobile deployment" width="390">
+
 `FLAGSHIP` · **Cybersecurity** · Advanced · ~4-5 weeks · Retail - EU e-commerce
 
 **Primary language:** TypeScript
