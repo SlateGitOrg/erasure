@@ -4,7 +4,7 @@ import { COLUMNS, type Column, type Subject } from './estate.ts';
 /**
  * Lineage-driven erasure, and the adversary that checks it worked.
  *
- * THE DIFFERENTIATOR LIVES HERE.
+ * Lineage discovery and the adversary live here.
  *
  * The usual implementation is a hand-written list of tables to delete from.
  * It is accurate on the day it is written and wrong by the end of the month,
